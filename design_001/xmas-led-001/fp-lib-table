@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pattern)(type KiCad)(uri C:/Users/gregd/Documents/git/xmas-led/lib/pattern.pretty)(options "")(descr ""))
+)
